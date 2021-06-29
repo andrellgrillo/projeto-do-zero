@@ -1,1 +1,12 @@
 // TODO
+.container {
+  max-width: 1120px;
+  justify-content: center;
+}
+
+.posts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem 0;
+}
